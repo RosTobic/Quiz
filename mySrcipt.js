@@ -1,9 +1,7 @@
   
 $(document).ready(function(){
-	$("p").click(function(){
-		$("p").hide();
+	$(".y").click(function(){
+		$(".y").css("background-color", "green");
 	});
-	$("img").click(function(){
-		$("p").show();
-	});
+	
 });
