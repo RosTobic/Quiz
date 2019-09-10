@@ -1,0 +1,18 @@
+body{
+	background-image:url('wood1.jpg');
+}
+
+h1 {
+  color: DarkSlateBlue ;
+  font-family: Aguafina Script;
+  font-size: 300%;
+  border: 9px solid powderblue;
+}
+
+p  {
+  color: Maroon ;
+  font-family: Comic Sans MS;
+  font-size: 160%;
+  border: 3px solid #6d093f;
+	
+}
