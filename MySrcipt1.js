@@ -27,5 +27,26 @@
 		$(".8").css("background-color", "red");
 	});
 	
+	$(".9").click(function(){
+		$(".9").css("background-color", "green");
+	});
+	$(".10").click(function(){
+		$(".10").css("background-color", "red");
+	});
+	
+	$(".11").click(function(){
+		$(".11").css("background-color", "green");
+	});
+	$(".12").click(function(){
+		$(".12").css("background-color", "red");
+	});
+	
+	$(".13").click(function(){
+		$(".13").css("background-color", "green");
+	});
+	$(".14").click(function(){
+		$(".14").css("background-color", "red");
+	});
+	
 	});
 	
