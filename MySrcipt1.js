@@ -48,5 +48,8 @@
 		$(".14").css("background-color", "red");
 	});
 	
+	$(".reset").click(function(){
+		$("p").css("background-color", "powderblue");
 	});
-	
+		
+	});
